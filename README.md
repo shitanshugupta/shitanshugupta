@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shitanshugupta
 - 👀 I’m interested in learning new ideas and concept related to technology
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning data structures and algorithms and aspiring Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me at shitanshugupta.iet@gmail.com
 
